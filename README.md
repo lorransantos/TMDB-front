@@ -19,8 +19,8 @@
 ### Imagens do projeto
 
 
-![promobit-inicial](https://user-images.githubusercontent.com/79860302/199742114-11fbf686-8172-4e2a-8aa3-8b4d6b0bc53e.png)
+<div style={display: flex}> 
+<img src="https://user-images.githubusercontent.com/79860302/199742114-11fbf686-8172-4e2a-8aa3-8b4d6b0bc53e.png" alt="drawing" width="40%" height="450px"/>
 
-![promobit-details](https://user-images.githubusercontent.com/79860302/199742124-3a5ee85e-d6ee-4575-bc2b-6d9223b971fd.png)
-
-
+<img src="https://user-images.githubusercontent.com/79860302/199742124-3a5ee85e-d6ee-4575-bc2b-6d9223b971fd.png" alt="drawing" width="40%" height="450px"/>
+</div>
